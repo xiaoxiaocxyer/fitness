@@ -14,7 +14,7 @@
 <a href="https://www.bilibili.com/video/BV1qSwae2E3o/" target="_blank">点击查看B站视频介绍</a>
 
 ## 功能介绍
-<img src="./images/gn.jpg" width="600" height="600" /><br>
+<img src="./images/gn.jpg" width="1000" height="600" /><br>
 
 ## 技术服务
 <img src="./images/my.jpg" width="200" height="260" />
